@@ -8,10 +8,10 @@ body{
     display: flex;
     flex-direction: column;
     min-height: 100vh;
-    background-image: url(Recursos/Cover.svg);
+    background-image: url(Cover.svg);
 }
 .header{
-    background-image: url(Recursos/banner2.svg);
+    background-image: url(banner2.svg);
     color: white;
     padding: 3em;
     text-align: center;
